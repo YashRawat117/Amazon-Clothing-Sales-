@@ -40,9 +40,5 @@ Built an interactive Amazon Clothing Sales Dashboard in Microsoft Excel to analy
 - Corrected KPI calculation errors  
 - Improved data accuracy and dashboard performance  
 
-
-## Dashboard Preview
-dashboard.png
-
 ## Author
 **Yash Rawat**
