@@ -42,7 +42,7 @@ Built an interactive Amazon Clothing Sales Dashboard in Microsoft Excel to analy
 
 
 ## Dashboard Preview
-_Add dashboard screenshot here_
+dashboard.png
 
 ## Author
 **Yash Rawat**
